@@ -1,1 +1,2 @@
-alert("Hello");
+alert("Hell");
+alert("new changes");
